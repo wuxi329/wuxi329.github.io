@@ -1,13 +1,12 @@
 # ----------- CONFIGURABLE START -----------
-title:            "wuxi|FullStack|独立开发者|jekyll blog|GitHub blog"
+title:            "wuxi「博客」|GitHub blog"
 description:      "欢迎来到 wuxi「博客」侃侃理想、谈谈人生、敲敲代码。"
 url:              https://wuxi329.github.io # 域名
 signoff:          "wuxi" # Your name
-facebook_appid:   #wuxi
 google_analytics: UA-101222464-1
 share:            true 
 # 分页
-paginate: 15
+paginate: 5
 paginate_path: "wuxipage:num"
 gems: [jekyll-paginate]
 links:
