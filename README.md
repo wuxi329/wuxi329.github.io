@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+#### wuxi.github.io demo [查看](https://wuxi.github.io/)
 
-You can use the [editor on GitHub](https://github.com/wuxi329/wuxi329.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+`Jekyll Themes`
+----------
+  
+### Jekyll轻量级极简博客
 
-### Markdown
+#### 第一步是点击[fork](https://github.com/wuxi/wuxi.github.io#fork-destination-box)
+##### 第二步: 修改_config.yml 中的url 为您的域名
+#### OK 好了  就这么简单  
+#### 我不要任何版权也不需要您在捐款，帮忙star下 一个🌟 谢谢 😄
+- [x] 自动生成标签
+- [x] 自动生成json搜索
+- [x] 自适应模板
+- [x] 自动生成feed.xml
+- [x] 自动生成分页
+- [x] 修改_config.yml 的links 为您的菜单
+- [x] 修改_config.yml  的paginate 为您的按照多少页分页
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![uiwuxi](https://raw.githubusercontent.com/wuxi/wuxi.github.io/master/thumbnails/ui.jpg) 
+ 
+ ----------
+![博客搜索](https://raw.githubusercontent.com/wuxi/wuxi.github.io/master/thumbnails/01.gif) 
 
-```markdown
-Syntax highlighted code block
+轻量级 最小blog 
+第一步: 点击[fork](https://github.com/wuxi/wuxi.github.io#fork-destination-box)
+ 
+----
 
-# Header 1
-## Header 2
-### Header 3
+![fork操作](https://raw.githubusercontent.com/wuxi/wuxi.github.io/master/thumbnails/02.gif)
+  
+  
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+第二步: 修改_config.yml 中的url 为您的域名
 
-**Bold** and _Italic_ and `Code` text
+![修改_config.yml 中的url 为您的域名](https://raw.githubusercontent.com/wuxi/wuxi.github.io/master/thumbnails/04.gif)
+  
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wuxi329/wuxi329.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [提交Issues](https://github.com/wuxi/wuxi.github.io/issues)
+ 
+* [发邮件](mailto:wuxi@gmail.com)
+ 
+* [Twitter](https://twitter.com/wuxi).
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
