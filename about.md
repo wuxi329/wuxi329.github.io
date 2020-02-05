@@ -19,9 +19,6 @@ redirect_from:
 又换了个博客主题 这次终于看见不那么难受了
  
 博客使用Jekyll搭建托管在GitHub目前使用主题后期[已开源](https://github.com/wuxi/wuxi.github.io)
- 
-<iframe src="http://ghbtns.com/github-btn.html?user=wuxi&repo=wuxi.github.io&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
- 
 
 博客图片使用七牛云加速
 
