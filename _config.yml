@@ -10,7 +10,7 @@ description: "以茜为贵的个人博客"
 keywords: 以茜为贵, wuqian, wuxi
 timezone: Asia/Suzhou
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 2
 
 # ---------------- #
 #      Author      #
