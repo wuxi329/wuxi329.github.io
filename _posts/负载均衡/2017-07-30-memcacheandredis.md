@@ -4,7 +4,7 @@ banana: true
 category: 负载均衡
 title:  Redis,Memcache的区别和具体应用场景及选择
 date:   2017-07-30 10:06:42
-background-image: http://ot1cc1u9t.bkt.clouddn.com/17-8-1/24280498.jpg
+background-image: 
 tags:
 - Redis
 - memcache
@@ -140,7 +140,7 @@ Redis的安装非常方便，只需从http://redis.io/download获取源码，然
 ###  Redis对象
 Redis内部使用一个redisObject对象来表示所有的key和value。redisObject最主要的信息如图1所示：type代表一个value对象具体是何种数据类型，encoding是不同数据类型在redis内部的存储方式，比如：type=string代表value存储的是一个普通字符串，那么对应的encoding可以是raw或者是int，如果是int则代表实际redis内部是按数值型类存储和表示这个字符串的，当然前提是这个字符串本身可以用数值表示，比如:"123" "456"这样的字符串。这里需要特殊说明一下vm字段，只有打开了Redis的虚拟内存功能，此字段才会真正的分配内存，该功能默认是关闭状态的。通过Figure1我们可以发现Redis使用redisObject来表示所有的key/value数据是比较浪费内存的，当然这些内存管理成本的付出主要也是为了给Redis不同数据类型提供一个统一的管理接口，实际作者也提供了多种方法帮助我们尽量节省内存使用。下面我们先来逐一的分析下这五种数据类型的使用和内部实现方式。
 
-![Redis对象](http://ot1cc1u9t.bkt.clouddn.com/17-8-1/96927364.jpg)
+<!-- ![Redis对象](http://ot1cc1u9t.bkt.clouddn.com/17-8-1/96927364.jpg) -->
 
 - String
  

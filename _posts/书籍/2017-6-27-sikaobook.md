@@ -1,7 +1,7 @@
 ---
 layout: blog
 book: true
-background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/89166189.jpg
+background-image: 
 title:  "思考快与慢"
 date:   2017-06-27
 category: 书籍
@@ -38,37 +38,37 @@ excerpt: "关于思考快于慢个人读后感和记录"
 
 
 
-  [1]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/82525896.jpg
+  <!-- [1]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/82525896.jpg -->
   
 ![思考快与慢][1]
 
 
-  [2]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/89133910.jpg
+  <!-- [2]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/89133910.jpg -->
   
   ![思考快与慢-思考|思考快与慢内容结构解析][2]
 
 
-  [3]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/95785131.jpg
+  <!-- [3]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/95785131.jpg -->
   
 ![思考快与慢内容][4]
 
 
-  [4]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/5122410.jpg
+  <!-- [4]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/5122410.jpg -->
   
 ![思考快与慢-思考与运作][5]
 
 
-  [5]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/78996389.jpg
+  <!-- [5]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/78996389.jpg -->
   
  ![思考快与慢-思考与联想力量][6]
 
 
-  [6]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/5122410.jpg
+  <!-- [6]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/5122410.jpg -->
   
   ![思考快与慢-思考|直觉可能是错觉][7]
 
 
-  [7]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/75236228.jpg
+  <!-- [7]: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/75236228.jpg -->
   
   ![思考快与慢-思考|系统与运作][7]
   图片素材来自知乎哈
