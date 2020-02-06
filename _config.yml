@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://wuxi329.github.io/
+url: https://wuxi329.github.io
 date_format: "ordinal"
 title: 以茜为贵
 subtitle: "打码改变人生"
